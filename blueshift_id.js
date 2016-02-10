@@ -1,3 +1,3 @@
-function bleushiftId(){
+function blueshiftId(){
   
 }
